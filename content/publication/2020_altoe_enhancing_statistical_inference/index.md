@@ -5,7 +5,7 @@ title: "Enhancing statistical inference in psychological research via prospectiv
 authors:
 - Gianmarco Altoè
 - Giulia Bertoldo
-- Claudio Zandonella Callegher
+- admin
 - Enrico Toffalini
 - Antonio Calcagnì
 - Livio Finos

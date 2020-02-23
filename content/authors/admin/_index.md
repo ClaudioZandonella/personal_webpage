@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include the formalization of psychological, Bayesian methods in Behavioral Sciences, and everything related to programming in R!
+bio: My research interests include the formalization of psychological thoeries, Bayesian methods in Behavioral Sciences, and everything related to programming in R!
 education:
   courses:
   - course: PhD in Psychological Sciences
@@ -17,7 +17,7 @@ email: "claudiozandonella@gmail.com" #mettere la mail qui
 interests:
 - Bayesian Approach
 - Prior Formalization
-- Experts Elicitation
+- Expert Elicitation
 - R Programming
 - Open Science
 name: Claudio Zandonella Callegher
@@ -51,9 +51,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Psychological Sciences. My major research interest concerns the formalization of psychological theories and research hypotheses as statistical models. In particular, I currently work on the formalization of experts judgements and relevant knowledge in the field using informative prior within a Bayesian analysis.
+I am a PhD student in Psychological Sciences. My major research interest concerns the formalization of psychological theories and research hypotheses as statistical models. In particular, I currently work on the formalization of expert judgement and relevant knowledge in the field using informative prior within a Bayesian analysis.
 
-Moreover, I am really enthusiastic about R environment and other programming languages as STAN, LaTeX and everything that is related to making open and reproducible science.
+Moreover, I am really enthusiastic about R environment and other programming languages as STAN, $\rm \LaTeX$ and everything that is related to making open and reproducible science.
 
 
 [Curriculum Vitae](files/cv.pdf)
