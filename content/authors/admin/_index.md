@@ -1,48 +1,49 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include the formalization of psychological, Bayesian methods in Behavioral Sciences, and everything related to programming in R!
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: "" #mettere la mail qui
+  - course: PhD in Psychological Sciences
+    institution: University of Padua
+    year: Current
+  - course: MSc in Psychology
+    institution: University of Padua
+    year: 2018
+  - course: BSc in Psychology
+    institution: University of Padua
+    year: 2016
+email: "claudiozandonella@gmail.com" #mettere la mail qui
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nome e Cognome
+- Bayesian Approach
+- Prior Formalization
+- Experts Elicitation
+- R enthusiastic
+- Open science
+name: Claudio Zandonella Callegher
 organizations:
 - name: University of Padova
   url: "https://www.unipd.it/en/"
-role: Professor of Artificial Intelligence
+role: PhD student in Psychological Sciences
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact' # se si vuole inserire un link alla propria mail al posto di #contact mettere mailto:email@email.it
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ClaudioZandone1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Z8vC8DAAAAAJ&hl=it
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ClaudioZandonella
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net
+  link: https://www.researchgate.net/profile/Claudio_Zandonella_Callegher
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/
+  link: https://orcid.org/0000-0001-7721-6318
 
 superuser: true
 user_groups:
@@ -50,8 +51,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Psychological Sciences. My major research interest concerns the formalization of psychological theories and research hypotheses as statistical models. In particular, I currently work on the formalization of experts judgements and relevant knowledge in the field using informative prior within a Bayesian analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Moreover, I am really enthusiastic about R environment and other programming languages as STAN, LaTeX and everything that is related to making open and reproducible science.
+
 
 [Curriculum Vitae](files/cv.pdf)
