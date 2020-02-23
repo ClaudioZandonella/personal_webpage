@@ -12,7 +12,9 @@ address:
   postcode:
   country:
 summary: "Formalizing research hypotheses as statistical models within attachment theory considering expert judgement and relevant knowledge in the field."
-abstract: "Formalizing research hypotheses as statistical models within attachment theory considering expert judgement and relevant knowledge in the field."
+abstract: "Verbal descriptions of research hypotheses are often ambiguous. They are open to different interpretations, making it difficult to directly evaluate them or compare different theoretical perspectives. On the contrary, mathematical models require to clearly specify all elements and relations. Although this is a difficult and demanding process, it allows to obtain specific predictions that can be used to directly evaluate and compare different models. Despite these advantages, the formalization of theories and hypotheses as mathematical models is a common practice only in some fields of psychology (e.g., cognitive modelling), whereas in other areas this practice is rarely applied.
+Here, we present the different steps involved in formalizing research hypotheses as applied to our project, which evaluates the relation between father and mother attachment and children’s socio-emotional problems. In developmental psychology, different theories regarding the role of father and mother attachment exist, but only in terms of verbal descriptions. Considering the steps to formalize these theories as models allows us to discuss possible techniques and methods (i.e., Prior Predictions and Expert’s Elicitation) to overcome common difficulties and problems. This opens the discussion about the limitations and advantages offered by this process, as well as possible solutions to further improve the models.
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -25,7 +27,7 @@ publishDate: 2020-02-23T16:15:21+01:00
 
 authors:
 - admin
-- Enrico Toffalini
+- Tatiana Marci
 - Gianmarco Altoè
 
 # Select one tag between Talk and Poster
