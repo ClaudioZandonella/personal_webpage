@@ -28,7 +28,7 @@ role: PhD student in Psychological Sciences
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact' # se si vuole inserire un link alla propria mail al posto di #contact mettere mailto:email@email.it
+  link: 'mailto:claudiozandonella@gmail.it' # se si vuole inserire un link alla propria mail al posto di #contact mettere mailto:email@email.it
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ClaudioZandone1
