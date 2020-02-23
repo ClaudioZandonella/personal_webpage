@@ -18,8 +18,8 @@ interests:
 - Bayesian Approach
 - Prior Formalization
 - Experts Elicitation
-- R enthusiastic
-- Open science
+- R Programming
+- Open Science
 name: Claudio Zandonella Callegher
 organizations:
 - name: University of Padova
