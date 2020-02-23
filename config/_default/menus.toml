@@ -8,10 +8,10 @@
   url = "project/"
   weight = 10
   
-[[main]]
-  name = "Posts"
-  url = "post/"
-  weight = 20
+#[[main]]
+#  name = "Posts"
+#  url = "post/"
+#  weight = 20
 
 [[main]]
   name = "Publications"
@@ -28,10 +28,10 @@
   url = "talk_poster/"
   weight = 50
 
-[[main]]
-  name = "Teaching"
-  url = "teaching/"
-  weight = 60
+#[[main]]
+#  name = "Teaching"
+#  url = "teaching/"
+#  weight = 60
 
 [[main]]
   name = "Psicostat"
