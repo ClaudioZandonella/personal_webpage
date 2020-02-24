@@ -1,42 +1,42 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Heights Elicitation"
-event: International Winter School - Beyond p<.05&#x3a; Modern statistica approaches in psychological science
-event_url: http://www.dpss.unipd.it/winter-school-2019
-location: Padua, Italy
+title: "Relation between father attachment and socio-emotional problems in the middle childhood: a Bayesian approach"
+event: "XXV AIP National Congress section of Developmental and Educational Psychology, Italian association of psychology"
+event_url: https://aipass.org/programma-xxxi-congresso-nazionale-aip-sezione-di-psicologia-dello-sviluppo-e-dell’educazione-torino#programma
+location: Turin, Italy
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: Expert Elicitation about effect sizes using an example about the difference in average height between boys and girls.
-abstract: Expert Elicitation about effect sizes using an example about the difference in average height between boys and girls.
+summary: "Evaluating the different role of mother-child and father-child attachmnet on children developmental outcomes."
+abstract: "Evaluating the different role of mother-child and father-child attachmnet on children developmental outcomes."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-02-18T15:03:29+01:00
-date_end: 2019-02-22T15:03:29+01:00
+date: 2018-09-17T16:59:57+01:00
+date_end: 2018-09-19T16:59:57+01:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-02-23T15:03:29+01:00
+publishDate: 2020-02-23T16:59:57+01:00
 
 authors:
 - admin
-- Enrico Toffalini
+- Tatiana Marci
 - Gianmarco Altoè
 
 # Select one tag between Talk and Poster
 tags: 
-- Talk
-- Expert Elicitation
+- Poster
+- Father Attachment
 
 # Talk or Poster type.
 # Legend: 0 = Uncategorized; 1 = Talk; 2 = Poster
 talk_poster_types:
-- "1"
+- "2"
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -57,11 +57,17 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
+# links:
+#   - icon_pack: fab
+#     icon: github
+#     name: Github Repository
+#     url: '' # qui mettere il link alla repository
+
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
-url_poster:
+url_poster: AIP_Torino_2018.pdf
 url_code:
-url_pdf:
+url_pdf: 
 url_video:
 
 # Markdown Slides (optional).
@@ -76,5 +82,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["expert_elicitation"]
+projects: []
 ---

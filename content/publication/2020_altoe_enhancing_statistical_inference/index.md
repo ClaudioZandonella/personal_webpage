@@ -47,6 +47,10 @@ show_homepage: true
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+    - name: OSF Repository
+      url: https://osf.io/j8gsf/
+      
 url_pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02893/pdf
 url_code:
 url_dataset:

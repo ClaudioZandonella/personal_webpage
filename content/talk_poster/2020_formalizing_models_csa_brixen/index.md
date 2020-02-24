@@ -33,7 +33,7 @@ authors:
 # Select one tag between Talk and Poster
 tags:
 - Talk
-- expert_elicitation
+- Expert Elicitation
 
 # Talk or Poster type.
 # Legend: 0 = Uncategorized; 1 = Talk; 2 = Poster
