@@ -15,7 +15,7 @@ education:
     year: 2016
 email: "claudiozandonella@gmail.com" #mettere la mail qui
 interests:
-- Bayesian Approach
+- Bayesian Inference
 - Prior Formalization
 - Expert Elicitation
 - R Programming
