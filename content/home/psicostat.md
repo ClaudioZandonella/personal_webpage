@@ -52,6 +52,6 @@ subtitle = ""
   <img class= logo src="img/Psicostat_hexagon.svg" width="200" align="middle">
 </div>
 
-I'm part of <font color="#990000"> <b> Psicostat </b> </font>. We are an interdisciplinary research group interested in **Psychology** and **Statistics** working at the University of Padua.
+I'm a member of <font color="#990000"> <b> Psicostat </b> </font>. We are an interdisciplinary research group interested in **Psychology** and **Statistics** working at the University of Padua.
 
-For more information this is our <font color="#990000"> <b> [page](/psicostat) </b> </font>
+<font color="#990000"> <b> [Learn more >>](/psicostat) </b> </font>

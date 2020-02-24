@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Psicostat Template"
-summary: "Personal website."
+summary: "Personal website template for [Psicostat](#psicostat) members by [Filippo Gambarota](https://filippogambarota.netlify.com/) and me."
 authors: []
 tags: []
 categories: []

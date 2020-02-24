@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Suggested Bayesian Papers"
-summary: "My favourite Bayesian papers"
+title: "Suggested Readings"
+summary: "My favourite articles and posts about statistical methods."
 authors: []
 tags: []
 categories: []
@@ -43,10 +43,14 @@ url_video: ""
 slides: ""
 ---
 
-In this tread I list my favourite Bayesian paper that explain....
+In this tread I list my favourite articles and posts about statistical methods.
 
-
-# Introuction to Bayesian Analysis
+## Introuction to Bayesian Analysis
 
 - [A gentle introduction to bayesian analysis: applications to developmental research.](https://doi.org/10.1111/cdev.12169) Rens van de Schoot et al. (2013)
-- other..
+
+
+## Formalizing models
+
+- [A conceptual introduction to mathematical modeling of cognition.](https://blog.efpsa.org/2017/08/28/a-conceptual-introduction-to-mathematical-modelling-of-cognition/) Frederik Aust (2017).
+- [Bayesian modeling using Stan: A case study.](https://fabiandablander.com/r/Law-of-Practice.html) Fabian Dablander (2019).
