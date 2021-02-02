@@ -72,7 +72,7 @@ subtitle = ""
 <div style="float: right; width: 50%">
   <div align="center">
     <h1>
-    <a href="http://ip146179.psy.unipd.it/psicostat/web/">Visit our website>></a>
+    <a href="https://psicostat.dpss.psy.unipd.it/">Visit our website>></a>
     </h1>
   </div>
   </br>

@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "[Psicostat](http://ip146179.psy.unipd.it/psicostat/web/index.html?fbclid=IwAR1F8-gDhqlNPFTFJZLgSeMwSQoQRzEwijU5mAPdSGjEH-bNvFjgv6O82Rg)"
+title = "[Psicostat](https://psicostat.dpss.psy.unipd.it/)"
 subtitle = ""
 
 [design]
