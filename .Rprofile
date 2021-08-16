@@ -1,3 +1,4 @@
+source("renv/activate.R")
 
 
 # RStudio addin “New Post” will create a new post as the index file of a page bundle
