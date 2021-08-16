@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "trackdown - R package for improving collaborative writing"
-summary: "The trackdown package offers a simple solution for collaborative writing and editing of R Markdown (or Sweave) documents."
+title: "trackdown"
+summary: "The trackdown R-package offers a simple solution for collaborative writing and editing of R Markdown (or Sweave) documents."
 authors:
 - Emily Kothe
 - admin
@@ -48,7 +48,7 @@ url_video: ""
 slides: ""
 ---
 
-The trackdown package offers a simple solution for collaborative writing and editing of R Markdown (or Sweave) documents. Using trackdown, the local `.Rmd` (or `.Rnw`) file can be uploaded as a plain-text file to Google Drive. By taking advantage of the easily readable Markdown (or $\LaTeX$) syntax and the well-known online interface offered by Google Docs, collaborators can easily contribute to the writing and editing process. After integrating all authors’ contributions, the final document can be downloaded and rendered locally.
+The trackdown R-package offers a simple solution for collaborative writing and editing of R Markdown (or Sweave) documents. Using trackdown, the local `.Rmd` (or `.Rnw`) file can be uploaded as a plain-text file to Google Drive. By taking advantage of the easily readable Markdown (or $\LaTeX$) syntax and the well-known online interface offered by Google Docs, collaborators can easily contribute to the writing and editing process. After integrating all authors’ contributions, the final document can be downloaded and rendered locally.
 
 
 To know more see the package documentation at https://claudiozandonella.github.io/trackdown/

@@ -14,7 +14,7 @@ date: 2020-04-16
 show_homepage: true
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://psicostat.github.io/Introduction2R/s"
+external_link: "https://psicostat.github.io/Introduction2R/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
