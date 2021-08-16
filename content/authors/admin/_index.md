@@ -29,15 +29,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:claudiozandonella@gmail.it' # se si vuole inserire un link alla propria mail al posto di #contact mettere mailto:email@email.it
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ClaudioZandonella
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/claudio-zandonella/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ClaudioZandone1
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Z8vC8DAAAAAJ&hl=it
-- icon: github
-  icon_pack: fab
-  link: https://github.com/ClaudioZandonella
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Claudio_Zandonella_Callegher
@@ -51,9 +54,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Psychological Sciences. My major research interest concerns the formalization of psychological theories and research hypotheses as statistical models. In particular, I currently work on the formalization of expert judgement and relevant knowledge in the field using informative prior within a Bayesian analysis.
+I am a PhD student in Psychological Sciences. My research interests concern the formalization of theories and research hypotheses as statistical models within a Bayesian framework. I am also involved in the Open Science movement by promoting the importance of Design Analysis and developing workflows to enhance research reproducibility and transparency.
 
-Moreover, I am really enthusiastic about R environment and other programming languages as STAN, $\rm \LaTeX$ and everything that is related to making open and reproducible science.
+I am enthusiastic about the opportunities and solutions offered by new technologies, programming software, and everything that is related to making open and reproducible science. In particular, I am an active R programmer and developer of R packages.
 
 
 [Curriculum Vitae](files/cv.pdf)
