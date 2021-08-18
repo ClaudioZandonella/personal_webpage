@@ -7,7 +7,7 @@ authors:
 - Rena Bayramova
 - Irene Valori
 - Phoebe E. McKenna-Plumley
-- Claudio Zandonella Callegher
+- admin
 - Teresa Farroni
 date: 2021-06-10
 doi: "https://doi.org/10.3758/s13414-021-02344-8"

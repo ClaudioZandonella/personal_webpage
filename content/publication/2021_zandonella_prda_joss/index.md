@@ -12,7 +12,7 @@ authors:
 - Massimiliano Pastore
 - Gianmarco Altoè
 date: 2021-02-21
-doi: ""
+doi: "https://doi.org/10.21105/joss.02810"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-18T22:23:01+02:00
