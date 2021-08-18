@@ -36,7 +36,7 @@ tags: []
 categories: []
 featured: false
 # Option to display content in the homepage (true/false)
-show_homepage: false
+show_homepage: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
