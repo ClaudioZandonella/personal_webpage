@@ -24,7 +24,7 @@ publication_short: ""
 abstract: "Data and supplement material of the article “Effectiveness of digital-based interventions for children with mathemat- ical learning difficulties: A meta-analysis” (Benavides-Varela et al.) [1] are presented. Data were collected from studies in- cluded in the meta-analysis to evaluate the effects of digital- based interventions for children with mathematical learning difficulties compared to control conditions in group-designed randomized controlled trials. Literature search, inclusion cri- teria and coding procedure are described. PRISMA flow-chart is reported to summarize the literature search and coding of all the relevant characteristics of the primary studies is made available. This allows other researchers to easily access to the information needed to evaluate the studies and to use these data in future meta-analyses. However, researchers are highly recommended to refer to the original papers in order to check studies suitability to their own criteria. Moreover, in the supplemental material all the information needed to re- produce the meta-analysis results is reported together with the R code syntax. Data and supplemental material are avail- able online (https://osf.io/ajdnv/)."
 
 # Summary. An optional shortened abstract.
-summary: "Data and supplement material of the article “Effectiveness of digital-based interventions for children with mathemat- ical learning difficulties: A meta-analysis” (Benavides-Varela et al.)"
+summary: "Data and supplement material of the article “Effectiveness of digital-based interventions for children with mathemat- ical learning difficulties: A meta-analysis” (Benavides-Varela et al., 2020)"
 
 
 
