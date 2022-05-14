@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Open Science Manual: Make Your Scientific Research Accessible and Reproducible"
+title: "The Open Science Manual"
 summary: "The present book aims to describe programming good practices and introduce common tools used in software development to guarantee the reproducibility of the analysis results. We want to make scientific research an open-source knowledge development."
 authors:
 - admin
