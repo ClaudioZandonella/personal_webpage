@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Psychological Sciences
     institution: University of Padua
-    year: Current
+    year: 2021
   - course: MSc in Psychology
     institution: University of Padua
     year: 2018
