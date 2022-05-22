@@ -15,16 +15,16 @@ education:
     year: 2016
 email: "claudiozandonella@gmail.com" #mettere la mail qui
 interests:
+- Machine Learning
 - Bayesian Inference
-- Prior Formalization
 - Expert Elicitation
 - R Programming
 - Open Science
 name: Claudio Zandonella Callegher
 organizations:
-- name: University of Padova
-  url: "https://www.unipd.it/en/"
-role: PhD student in Psychological Sciences
+- name: Eurac Reearch Institute for Renewable Energy
+  url: "https://www.eurac.edu/en/institutes-centers/institute-for-renewable-energy"
+role: Post-Doc Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,9 +54,11 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Psychological Sciences. My research interests concern the formalization of theories and research hypotheses as statistical models within a Bayesian framework. I am also involved in the Open Science movement by promoting the importance of Design Analysis and developing workflows to enhance research reproducibility and transparency.
+During my PhD, I fell in love with data science. Understanding the complex phenomena that affect our lives by exploring data, formulating hypotheses, building models, and validating them. I find the whole process extremely challenging and motivating. In addition, I am excited about the integration of new technologies into our daily lives and how a data-driven approach can help us make better decisions in any field. I want to be part of that change that is shaping our future society.
 
-I am enthusiastic about the opportunities and solutions offered by new technologies, programming software, and everything that is related to making open and reproducible science. In particular, I am an active R programmer and developer of R packages.
+<!--- I am a PhD student in Psychological Sciences. My research interests concern the formalization of theories and research hypotheses as statistical models within a Bayesian framework. I am also involved in the Open Science movement by promoting the importance of Design Analysis and developing workflows to enhance research reproducibility and transparency.-->
+
+<!--- I am enthusiastic about the opportunities and solutions offered by new technologies, programming software, and everything that is related to making open and reproducible science. In particular, I am an active R programmer and developer of R packages.-->
 
 
 [Curriculum Vitae](files/cv.pdf)
