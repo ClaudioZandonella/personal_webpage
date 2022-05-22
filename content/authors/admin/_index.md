@@ -22,7 +22,7 @@ interests:
 - Open Science
 name: Claudio Zandonella Callegher
 organizations:
-- name: Eurac Reearch Institute for Renewable Energy
+- name: Eurac Research Institute for Renewable Energy
   url: "https://www.eurac.edu/en/institutes-centers/institute-for-renewable-energy"
 role: Post-Doc Researcher
 social:
